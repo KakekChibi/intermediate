@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="label_greet" type="id" />
+    <item name="label_appName" type="id" />
+    <item name="label_auth" type="id" />
+    <item name="btn_action" type="id" />
+</resources>

@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="app_widget_text" translatable="false">StoryApp</string>
+
+    <!-- Title menu xml -->
+    <string name="menu_title_refresh">Refresh</string>
+    <string name="menu_title_blank" translatable="false">" "</string>
+    <string name="menu_title_bottom_nav_home">Home</string>
+    <string name="menu_title_bottom_nav_profile">Profile</string>
+
+    <!-- Content Description layout xml -->
+    <string name="content_description_fab_add_story">New Story</string>
+    <string name="content_descrption_btn_gallery">Pick Image from Gallery</string>
+    <string name="content_description_btn_shutter_camera">Take a photo</string>
+    <string name="content_description_btn_switch_camera">Rotate a camera</string>
+    <string name="content_description_avatar_image">Default Avatar Image</string>
+    <string name="content_description_image_story">User Story Image</string>
+    <string name="content_description_btn_jump_up">Button scroll top</string>
+    <string name="content_description_btn_camera_back">Button Back to homescreen</string>
+
+    <!-- Constant Value text -->
+    <string name="const_lorem_ipsum" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+    <string name="const_person_name" translatable="false">Timoty</string>
+    <string name="const_uploaded_date">uploaded at 23 Mei 2024 00.00</string>
+    <string name="const_story_description_hint">Write description here</string>
+    <string name="const_copyright" translatable="false">\mqonis</string>
+    <string name="const_greetings_auth_page">Hi, Welcome to</string>
+    <string name="const_text_login">Login</string>
+    <string name="const_text_email" translatable="false">Email</string>
+    <string name="const_text_password" translatable="false">Password</string>
+    <string name="const_text_auth_question_login">don\'t have an account?</string>
+    <string name="const_text_register">Register</string>
+    <string name="const_text_auth_question_register">Already have an account?</string>
+    <string name="const_text_name">Name</string>
+    <string name="const_text_uploaded">Uploaded</string>
+    <string name="const_text_seconds_ago">seconds ago</string>
+    <string name="const_text_minutes_ago">minutes ago</string>
+    <string name="const_text_hours_ago">hours ago</string>
+    <string name="const_text_days_ago">days ago</string>
+    <string name="const_text_time_on">on</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="menu_map"> Map</string>
+    <string name="const_text_try_again">Try again</string>
+
+
+    <!-- Button text layout xml -->
+    <string name="button_text_ok">ok</string>
+    <string name="button_text_upload_story">Upload Story</string>
+    <string name="button_text_signin">Sign In</string>
+    <string name="button_text_signup">Sign Up</string>
+    <string name="button_text_logout">Logout</string>
+
+    <!-- API Error & Response Code -->
+    <string name="API_success_upload_image">image has been uploaded successfully</string>
+    <string name="API_error_unauthorized">Email address is not registered / Wrong Email or Password</string>
+    <string name="API_error_email_invalid">Invalid email format</string>
+    <string name="API_error_header_token">You\'re Unauthorized, please re-login for renewal Token</string>
+    <string name="API_error_large_payload">Your image exceeds the maximum limit of 1 MB file, please change the image</string>
+    <string name="API_error_send_payload">Error while send image</string>
+    <string name="API_error_fetch_data">Error while fetching data</string>
+
+    <!-- UI Error -->
+    <string name="UI_validation_empty_story_description">Field description must be filled</string>
+    <string name="UI_validation_empty_email_password">Field Email and Password must be filled</string>
+    <string name="UI_validation_invalid_email">Email format is invalid</string>
+    <string name="UI_validation_empty_email_password_name">Field Name, Email and Password must be filled</string>
+    <string name="UI_validation_password_rules">Password must contain at least 8 characters</string>
+    <string name="UI_info_successful_register_user">New user registration is successful, please login using the registered email and password</string>
+    <string name="UI_error_permission_denied"> Permision Denied </string>
+    <string name="UI_error_camera_take_photo">Failed take a picture</string>
+    <string name="UI_validation_empty_email">Field Email must be filled</string>
+    <string name="UI_validation_empty_password">Field Password must be filled</string>
+    <string name="UI_validation_empty_name">Field Name must be filled</string>
+    <string name="error">Error</string>
+    <string name="const_text_failed_fetch_data">Failed fetch data</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="login_successful">Login Successful</string>
+    <string name="login_successful_message">Login Successfully.</string>
+    <string name="regis_successful">Register Successful</string>
+    <string name="regis_successful_message">Register Successfully.</string>
+    <string name="login_failed_message">Please check your email and password.</string>
+
+
+
+
+</resources>
